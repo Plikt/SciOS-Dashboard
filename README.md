@@ -7,3 +7,5 @@ Wander around and check it out!
 # Our Events
 
 Discourse Graph Discotech
+
+IOSP 2025 Workshop
